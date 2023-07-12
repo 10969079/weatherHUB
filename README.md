@@ -1,2 +1,0 @@
-# weatherHUB
-weather app
